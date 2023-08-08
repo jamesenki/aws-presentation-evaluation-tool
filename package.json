@@ -16,7 +16,7 @@
     "@testing-library/user-event": "^12.1.10",
     "aws-amplify": "^5.0.5",
     "aws-sdk": "^2.730.0",
-    "axios": "^0.19.2",
+    "axios": "^0.27.2",
     "jquery": "^3.6.0",
     "microphone-stream": "^5.0.1",
     "react": "^17.0.2",
