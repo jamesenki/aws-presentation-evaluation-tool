@@ -5,7 +5,7 @@
   "dependencies": {
     "@aws-amplify/core": "^5.0.4",
     "@aws-amplify/geo": "^2.0.5",
-    "@aws-amplify/ui-react": "^3.0.0",
+    "@aws-amplify/ui-react": "^6.0.5",
     "@aws-sdk/eventstream-marshaller": "0.1.0-preview.2",
     "@aws-sdk/util-utf8-node": "0.1.0-preview.1",
     "@awsui/components-react": "^3.0.528",
